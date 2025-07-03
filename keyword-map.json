@@ -1,18 +1,18 @@
 {
   "Mental Health": [
-   "/2023/12/mental-health-self-care.html",
+    "/2023/12/mental-health-self-care.html",
     "/2024/03/support-senior-mental-health.html",
     "/2024/06/late-bedtime-mental-health.html",
     "/2024/07/brain-connectivity-maps.html"
   ],
   "Gut Health": [
-   "/2024/12/pooping-more-often-better-health.html",
+    "/2024/12/pooping-more-often-better-health.html",
     "/2024/03/gut-health-weight-loss.html",
     "/2024/07/gut-dysbiosis-and-ocular-diseases.html",
     "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
   ],
   "Sleep Disorders": [
-   "/2024/06/late-bedtime-mental-health.html",
+    "/2024/06/late-bedtime-mental-health.html",
     "/2024/07/brain-connectivity-maps.html",
     "/2024/06/sleep-apnea-dementia-risk.html",
     "/2024/05/how-to-experience-good-nights-sleep.html"
@@ -20,8 +20,7 @@
   "Cognitive Health": [
     "/2024/07/brain-connectivity-maps.html",
     "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
-  ]
-{
+  ],
   "Parkinson's Disease": [
     "/2023/09/keto-how-it-works-benefits-and-pitfalls.html",
     "/2024/09/age-reversal-harvard-mit-cell-restoral.html"
@@ -29,25 +28,23 @@
   "Aging": [
     "/2024/09/age-reversal-harvard-mit-cell-restoral.html",
     "/2023/11/what-new-studies-show-about-slowing.html",
-    "/2024/03/anti-aging-research.html", 
+    "/2024/03/anti-aging-research.html",
     "/2024/12/inflammation-aging-human-growth-hormone.html",
     "/2024/07/title-demystifying-brain-aging-ai.html",
-    "/2023/11/top-ten-long-term-care-tips-from-nia.html"'
+    "/2023/11/top-ten-long-term-care-tips-from-nia.html"
   ],
-   "Autoimmune Disorders": [
+  "Autoimmune Disorders": [
     "/2024/01/women-autoimmune.html",
     "/2024/01/autoimmune-arthritis.html",
     "/2024/06/celiac-disease-dilated-cardiomyopathy.html",
     "/2024/01/psoriasis-sleep-disruption.html"
   ],
-
   "Bone Health": [
     "/2024/01/build-strong-bones.html",
-    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html"
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
     "/2024/02/strong-bones-naturally.html"
-
   ],
-   "Nutrition": [
+  "Nutrition": [
     "/2024/09/nutrition-missing-piece-in-medical.html",
     "/2024/02/seniors-health-nutrition.html",
     "/2024/01/omega-3-fatty-acids-guide.html",
@@ -67,25 +64,41 @@
     "/2024/06/dementia-awareness-recognizing-early.html",
     "/2024/07/dementia-lifespan-siblings-twin-study.html",
     "/2024/09/alzheimers-vs-dementia.html"
-  ]
-   "Healthcare Access": [
+  ],
+  "Healthcare Access": [
     "/2025/06/evolving-healthcare-landscape.html",
     "/2025/06/the-path-to-safer-vaccines-what-needs.html",
     "/2025/04/the-ripple-effect-immigration.html",
-    "/2024/03/house-calls-modern-at-home-diagnostics.html",     
+    "/2024/03/house-calls-modern-at-home-diagnostics.html"    
   ],
   "Anemia": [
     "/2024/03/hematologists.html",
     "/2023/09/anemia-what-you-need-to-know.html",
     "/2024/10/in-the-blood.html",
-    "/2024/09/metal-exposure-calcium-heart-health-aging.html",     
+    "/2024/09/metal-exposure-calcium-heart-health-aging.html"     
   ],
   "Cirrhosis": [
-    "/2024/04/decompensated-cirrhosis-metabolic-syndrome-type-2-diabetes.html,
+    "/2024/04/decompensated-cirrhosis-metabolic-syndrome-type-2-diabetes.html",
     "/2023/09/liver-cirrhosis-what-you-need-to-know.html",
     "/2024/04/variceal-hemorrhage-causes-risks-dangers.html",
     "/2025/04/liver-cirrhosis-varices-banding-recovery.html",
     "/2024/02/is-there-link-between-liver-health-and.html",
     "/2024/05/dangers-of-excess-ammonia-in-blood.html",
-    "/2025/02/acetaminophen-liver-disease.html",
+    "/2025/02/acetaminophen-liver-disease.html"
+  ],
+  "Healthy Aging": [
+    "/2024/07/anti-aging-cells-longevity.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+  "Inflammation": [
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
+    "/2024/01/psoriasis-sleep-disruption.html"
+  ],
+  "Preventive Lifestyle": [
+    "/2023/09/creating-your-best-exercise-plan.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2024/09/nutrition-missing-piece-in-medical.html",
+    "/2024/01/build-strong-bones.html",
+    "/2024/02/seniors-health-nutrition.html"
+  ]
 }
