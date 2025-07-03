@@ -152,5 +152,46 @@
   "Senior Care": [
     "/2024/03/senior-health-education.html",   
     "/2024/03/healthy-after-65.html"
+  ],
+  {
+  "Longevity": [
+    "/2023/11/what-new-studies-show-about-slowing.html",
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html",
+    "/2024/03/anti-aging-research.html"
+  ],
+  "Biohacks": [
+    "/2024/03/anti-aging-research.html",
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html",
+    "/2024/07/title-demystifying-brain-aging-ai.html"
+  ],
+  "Vision Health": [
+    "/2024/03/anti-aging-research.html",
+    "/2024/02/healthcare-lab-grown-retinas-brain.html",
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html"
+  ],
+  "Mental Health in Aging": [
+    "/2025/04/anxiety-accelerates-aging.html",
+    "/2024/03/support-senior-mental-health.html",
+    "/2024/05/tips-for-healthy-brain-aging.html"
+  ],
+  {
+  "Mobility": [
+    "/2025/01/seniors-chair-yoga-free-for-strength.html",
+    "/2024/03/chiropractor-pain-relief.html"
+  ],
+  "Gut-Brain Axis": [
+    "/2024/07/gut-dysbiosis-and-ocular-diseases.html",
+    "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
+  ],
+  "Sleep Optimization": [
+    "/2024/02/good-night-sleep-struggles-expert-advice.html",
+    "/2024/06/late-bedtime-mental-health.html",
+    "/2024/06/sleep-apnea-dementia-risk.html"
+  ],
+  "AI in Healthcare": [
+    "/2024/06/ai-physician-future-of-medicine.html",
+    "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html"
   ]
 }
+}
+
