@@ -128,7 +128,7 @@
     "/2024/03/cataract-surgery-seniors-know.html",
     "/2024/03/senior-care-options-home-care-assisted-living-nursing-home.html"
   ],
-}{
+
   "Anti-Aging": [
     "/2024/03/anti-aging-research.html",
     "/2024/09/age-reversal-harvard-mit-cell-restoral.html",
@@ -174,7 +174,6 @@
     "/2024/03/support-senior-mental-health.html",
     "/2024/05/tips-for-healthy-brain-aging.html"
   ],
-  {
   "Mobility": [
     "/2025/01/seniors-chair-yoga-free-for-strength.html",
     "/2024/03/chiropractor-pain-relief.html"
@@ -191,7 +190,494 @@
   "AI in Healthcare": [
     "/2024/06/ai-physician-future-of-medicine.html",
     "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html"
+  ],
+  "Mental Health": [
+    "/2023/12/mental-health-self-care.html",
+    "/2024/03/support-senior-mental-health.html",
+    "/2024/06/late-bedtime-mental-health.html",
+    "/2024/07/brain-connectivity-maps.html"
+  ],
+  "Gut Health": [
+    "/2024/12/pooping-more-often-better-health.html",
+    "/2024/03/gut-health-weight-loss.html",
+    "/2024/07/gut-dysbiosis-and-ocular-diseases.html",
+    "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
+  ],
+  "Sleep Disorders": [
+    "/2024/06/late-bedtime-mental-health.html",
+    "/2024/07/brain-connectivity-maps.html",
+    "/2024/06/sleep-apnea-dementia-risk.html",
+    "/2024/05/how-to-experience-good-nights-sleep.html"
+  ],
+  "Cognitive Health": [
+    "/2024/07/brain-connectivity-maps.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+  "Parkinson's Disease": [
+    "/2023/09/keto-how-it-works-benefits-and-pitfalls.html",
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html"
+  ],
+  "Aging": [
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html",
+    "/2023/11/what-new-studies-show-about-slowing.html",
+    "/2024/03/anti-aging-research.html",
+    "/2024/12/inflammation-aging-human-growth-hormone.html",
+    "/2024/07/title-demystifying-brain-aging-ai.html",
+    "/2023/11/top-ten-long-term-care-tips-from-nia.html"
+  ],
+  "Autoimmune Disorders": [
+    "/2024/01/women-autoimmune.html",
+    "/2024/01/autoimmune-arthritis.html",
+    "/2024/06/celiac-disease-dilated-cardiomyopathy.html",
+    "/2024/01/psoriasis-sleep-disruption.html"
+  ],
+  "Bone Health": [
+    "/2024/01/build-strong-bones.html",
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
+    "/2024/02/strong-bones-naturally.html"
+  ],
+  "Nutrition": [
+    "/2024/09/nutrition-missing-piece-in-medical.html",
+    "/2024/02/seniors-health-nutrition.html",
+    "/2024/01/omega-3-fatty-acids-guide.html",
+    "/2024/07/choline-brain-nutrient.html",
+    "/2024/06/processed-vs-whole-grains.html"
+  ],
+  "Cardiovascular Health": [
+    "/2024/03/cardiologists-heart-health.html",
+    "/2024/09/metal-exposure-calcium-heart-health-aging.html",
+    "/2024/05/atrial-fibrillation-heart-disease.html",
+    "/2024/05/heart-attack-prevention-signs-and-what-to-do.html",
+    "/2024/06/is-heart-attack-risk-increased-more-by.html"
+  ],
+  "Dementia": [
+    "/2024/05/dementia-mortality-lucidity-sleep-apnea-aging-brain.html",
+    "/2024/02/dementia-silent-signs.html",
+    "/2024/06/dementia-awareness-recognizing-early.html",
+    "/2024/07/dementia-lifespan-siblings-twin-study.html",
+    "/2024/09/alzheimers-vs-dementia.html"
+  ],
+  "Healthcare Access": [
+    "/2025/06/evolving-healthcare-landscape.html",
+    "/2025/06/the-path-to-safer-vaccines-what-needs.html",
+    "/2025/04/the-ripple-effect-immigration.html",
+    "/2024/03/house-calls-modern-at-home-diagnostics.html"    
+  ],
+  "Anemia": [
+    "/2024/03/hematologists.html",
+    "/2023/09/anemia-what-you-need-to-know.html",
+    "/2024/10/in-the-blood.html",
+    "/2024/09/metal-exposure-calcium-heart-health-aging.html"     
+  ],
+  "Cirrhosis": [
+    "/2024/04/decompensated-cirrhosis-metabolic-syndrome-type-2-diabetes.html",
+    "/2023/09/liver-cirrhosis-what-you-need-to-know.html",
+    "/2024/04/variceal-hemorrhage-causes-risks-dangers.html",
+    "/2025/04/liver-cirrhosis-varices-banding-recovery.html",
+    "/2024/02/is-there-link-between-liver-health-and.html",
+    "/2024/05/dangers-of-excess-ammonia-in-blood.html",
+    "/2025/02/acetaminophen-liver-disease.html"
+  ],
+  "Healthy Aging": [
+    "/2024/07/anti-aging-cells-longevity.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+  "Inflammation": [
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
+    "/2024/01/psoriasis-sleep-disruption.html"
+  ],
+  "Preventive Lifestyle": [
+    "/2023/09/creating-your-best-exercise-plan.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2024/09/nutrition-missing-piece-in-medical.html",
+    "/2024/01/build-strong-bones.html",
+    "/2024/02/seniors-health-nutrition.html"
+  ],
+  {
+  "Mental Health": [
+    "/2023/12/mental-health-self-care.html",
+    "/2024/03/support-senior-mental-health.html",
+    "/2024/06/late-bedtime-mental-health.html",
+    "/2024/07/brain-connectivity-maps.html"
+  ],
+  "Gut Health": [
+    "/2024/12/pooping-more-often-better-health.html",
+    "/2024/03/gut-health-weight-loss.html",
+    "/2024/07/gut-dysbiosis-and-ocular-diseases.html",
+    "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
+  ],
+  "Sleep Disorders": [
+    "/2024/06/late-bedtime-mental-health.html",
+    "/2024/07/brain-connectivity-maps.html",
+    "/2024/06/sleep-apnea-dementia-risk.html",
+    "/2024/05/how-to-experience-good-nights-sleep.html"
+  ],
+  "Cognitive Health": [
+    "/2024/07/brain-connectivity-maps.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+  "Parkinson's Disease": [
+    "/2023/09/keto-how-it-works-benefits-and-pitfalls.html",
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html"
+  ],
+  "Aging": [
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html",
+    "/2023/11/what-new-studies-show-about-slowing.html",
+    "/2024/03/anti-aging-research.html",
+    "/2024/12/inflammation-aging-human-growth-hormone.html",
+    "/2024/07/title-demystifying-brain-aging-ai.html",
+    "/2023/11/top-ten-long-term-care-tips-from-nia.html"
+  ],
+  "Autoimmune Disorders": [
+    "/2024/01/women-autoimmune.html",
+    "/2024/01/autoimmune-arthritis.html",
+    "/2024/06/celiac-disease-dilated-cardiomyopathy.html",
+    "/2024/01/psoriasis-sleep-disruption.html"
+  ],
+  "Bone Health": [
+    "/2024/01/build-strong-bones.html",
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
+    "/2024/02/strong-bones-naturally.html"
+  ],
+  "Nutrition": [
+    "/2024/09/nutrition-missing-piece-in-medical.html",
+    "/2024/02/seniors-health-nutrition.html",
+    "/2024/01/omega-3-fatty-acids-guide.html",
+    "/2024/07/choline-brain-nutrient.html",
+    "/2024/06/processed-vs-whole-grains.html"
+  ],
+  "Cardiovascular Health": [
+    "/2024/03/cardiologists-heart-health.html",
+    "/2024/09/metal-exposure-calcium-heart-health-aging.html",
+    "/2024/05/atrial-fibrillation-heart-disease.html",
+    "/2024/05/heart-attack-prevention-signs-and-what-to-do.html",
+    "/2024/06/is-heart-attack-risk-increased-more-by.html"
+  ],
+  "Dementia": [
+    "/2024/05/dementia-mortality-lucidity-sleep-apnea-aging-brain.html",
+    "/2024/02/dementia-silent-signs.html",
+    "/2024/06/dementia-awareness-recognizing-early.html",
+    "/2024/07/dementia-lifespan-siblings-twin-study.html",
+    "/2024/09/alzheimers-vs-dementia.html"
+  ],
+  "Healthcare Access": [
+    "/2025/06/evolving-healthcare-landscape.html",
+    "/2025/06/the-path-to-safer-vaccines-what-needs.html",
+    "/2025/04/the-ripple-effect-immigration.html",
+    "/2024/03/house-calls-modern-at-home-diagnostics.html"    
+  ],
+  "Anemia": [
+    "/2024/03/hematologists.html",
+    "/2023/09/anemia-what-you-need-to-know.html",
+    "/2024/10/in-the-blood.html",
+    "/2024/09/metal-exposure-calcium-heart-health-aging.html"     
+  ],
+  "Cirrhosis": [
+    "/2024/04/decompensated-cirrhosis-metabolic-syndrome-type-2-diabetes.html",
+    "/2023/09/liver-cirrhosis-what-you-need-to-know.html",
+    "/2024/04/variceal-hemorrhage-causes-risks-dangers.html",
+    "/2025/04/liver-cirrhosis-varices-banding-recovery.html",
+    "/2024/02/is-there-link-between-liver-health-and.html",
+    "/2024/05/dangers-of-excess-ammonia-in-blood.html",
+    "/2025/02/acetaminophen-liver-disease.html"
+  ],
+  "Healthy Aging": [
+    "/2024/07/anti-aging-cells-longevity.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+  "Inflammation": [
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
+    "/2024/01/psoriasis-sleep-disruption.html"
+  ],
+  "Preventive Lifestyle": [
+    "/2023/09/creating-your-best-exercise-plan.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2024/09/nutrition-missing-piece-in-medical.html",
+    "/2024/01/build-strong-bones.html",
+    "/2024/02/seniors-health-nutrition.html"
+  ],
+  "Vision Health": [
+    "/2024/02/healthcare-lab-grown-retinas-brain.html",
+    "/2024/07/gut-dysbiosis-and-ocular-diseases.html"
+  ],
+  "Mental Resilience": [
+    "/2023/12/mental-health-self-care.html",
+    "/2023/12/embracing-wisdom-age.html",
+    "/2024/03/support-senior-mental-health.html"
+  ],
+  "Chronic Inflammation": [
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
+    "/2024/12/inflammation-aging-human-growth-hormone.html",
+    "/2024/01/psoriasis-sleep-disruption.html"
+  ],
+  "AI-Assisted Diagnostics": [
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2024/06/ai-physician-future-of-medicine.html"
+  ],
+ {
+  "Sleep and Circadian Health": [
+    "/2025/03/surprising-circadian-disrupters-infections-diseases-vaccines.html",
+    "/2024/12/biological-clock-molecular-shifts-aging.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+  "Gut-Heart Connection": [
+    "/2024/07/gerd-atrial-fibrillation-gut-microbiome-health.html"
+  ],
+  "AI in Aging": [
+    "/2024/07/title-demystifying-brain-aging-ai.html",
+    "/2024/06/ai-physician-future-of-medicine.html"
+  ],
+  "Health Equity and Rural Care": [
+    "/2025/05/medicaid-cuts-rural-hospitals-health-impact.html",
+    "/2024/04/health-disparities-equity-equality.html"
+  ]'
+{
+  "Vision and Eye Health": [
+    "/2024/07/gut-dysbiosis-and-ocular-diseases.html",
+    "/2024/03/see-clearly15-eye-care-tips.html",
+    "/2024/05/wet-age-related-macular-degeneration-understanding-and-prevention.html",
+    "/2024/12/cataracts-types-causes-risks-treatment.html",
+    "/2024/03/cataract-surgery-seniors-know.html"
+  ],
+  "Chronic Disease Prevention": [
+    "/2024/10/gerd-and-sepsis-a-dangerous-connection.html",
+    "/2024/01/intermittent-fasting-cutting-hype.html",
+    "/2024/06/Alzheimer-prevention-lifestyle-tai-chi.html"
+  ],
+  "Senior Fitness": [
+    "/2025/01/seniors-chair-yoga-free-for-strength.html",
+    "/2024/03/creating-your-best-exercise-plan.html"
+  ],
+  "Emerging Nutrition Science": [
+    "/2024/01/intermittent-fasting-cutting-hype.html",
+    "/2024/09/nutrition-missing-piece-in-medical.html",
+    "/2024/07/choline-brain-nutrient.html",
+    "/2024/01/omega-3-fatty-acids-guide.html"
+  ],
+{
+  "Gut-Heart Axis": [
+    "/2024/07/gerd-atrial-fibrillation-gut-microbiome-health.html",
+    "/2024/03/gut-health-weight-loss.html",
+    "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
+  ],
+  "AI in Diagnostics": [
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2024/06/ai-physician-future-of-medicine.html"
+  ],
+  "Health Equity": [
+    "/2025/05/medicaid-cuts-rural-hospitals-health-impact.html",
+    "/2024/04/health-disparities-equity-equality.html",
+    "/2024/03/senior-care-options-home-care-assisted-living-nursing-home.html"
+  ],
+  "Seasonal Wellness Tips": [
+    "/2024/03/see-clearly15-eye-care-tips.html",
+    "/2023/09/10-tips-to-beat-fall-allergies-naturally.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+{
+  "Hormone Health": [
+    "/2024/12/inflammation-aging-human-growth-hormone.html",
+    "/2024/01/women-autoimmune.html"
+  ],
+  "Longevity Research": [
+    "/2024/09/age-reversal-harvard-mit-cell-restoral.html",
+    "/2023/11/what-new-studies-show-about-slowing.html"
+  ],
+  "Health Technology Breakthroughs": [
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2024/04/healthcare-lab-grown-retinas-brain.html",
+    "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html"
+  ],
+  "Nutrition and Mental Clarity": [
+    "/2024/07/choline-brain-nutrient.html",
+    "/2024/01/omega-3-fatty-acids-guide.html",
+    "/2024/09/nutrition-missing-piece-in-medical.html"
+  ],
+{
+  "Brain Aging": [
+    "/2024/07/title-demystifying-brain-aging-ai.html",
+    "/2024/02/dementia-silent-signs.html",
+    "/2024/05/brain-aging-awareness.html"
+  ],
+  "Emotional Wellbeing": [
+    "/2025/04/anxiety-accelerates-aging.html",
+    "/2024/03/support-senior-mental-health.html",
+    "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
+  ],
+  "Seasonal Aging Concerns": [
+    "/2023/09/10-tips-to-beat-fall-allergies-naturally.html",
+    "/2024/03/senior-health-trends-april-2024.html",
+    "/2025/05/medicaid-cuts-rural-hospitals-health-impact.html"
+  ],
+  "Fitness Technology for Seniors": [
+    "/2025/01/seniors-chair-yoga-free-for-strength.html",
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html"
+  ],
+  {
+  "Genetics and Aging": [
+    "/2024/08/what-is-crispr-how-does-it-work.html",
+    "/2024/03/genomic-medicine-tailoring-treatments.html"
+  ],
+  "Social Engagement and Longevity": [
+    "/2025/01/socioeconomic-status-aging-healthcare.html",
+    "/2025/04/exploring-shingles-vaccine-loneliness-dementia.html"
+  ],
+  "Muscle Strength": [
+    "/2024/01/muscular-hypertrophy.html",
+    "/2025/01/seniors-chair-yoga-free-for-strength.html"
+  ],
+  "Telemedicine for Seniors": [
+    "/2024/04/senior-health-trends-april-2024.html",
+    "/2024/03/house-calls-modern-at-home-diagnostics.html"
+  ],
+
+  "Seasonal Health Tips": [
+    "/2023/09/10-tips-to-beat-fall-allergies-naturally.html",
+    "/2024/03/senior-health-trends-april-2024.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html"
+  ],
+  "Cognitive Decline Prevention": [
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2024/05/creatine-cognitive-benefits.html",
+    "/2024/04/working-memory-insights-brain-cells-focus-storage.html"
+  ],
+  "AI Diagnostics": [
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2024/06/ai-physician-future-of-medicine.html",
+    "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html"
+  ],
+  "Nutrition for Immune Resilience": [
+    "/2024/01/omega-3-fatty-acids-guide.html",
+    "/2024/09/nutrition-missing-piece-in-medical.html",
+    "/2024/07/choline-brain-nutrient.html"
+  ],
+{
+  "Mobility Aids": [
+    "/2025/01/seniors-chair-yoga-free-for-strength.html",
+    "/2024/03/chiropractor-pain-relief.html"
+  ],
+  "Exercise Recovery": [
+    "/2023/10/the-top-ten-growing-lifestyle-trends-in.html",
+    "/2025/01/seniors-chair-yoga-free-for-strength.html"
+  ],
+  "Sleep and Stress": [
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2024/07/stress-gut-bacteria-microbiome-resilience.html",
+    "/2025/04/the-unseen-burden-how-anxiety-accelerates-aging.html"
+  ],
+  "Community Health Innovations": [
+    "/2025/05/medicaid-cuts-rural-hospitals-health-impact.html",
+    "/2024/02/science-trends-of%20-note.html"
+  ],
+{
+  "Gut-Brain Resilience": [
+    "/2024/06/gut-health-secrets-small-intestine-neuroprotection.html",
+    "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
+  ],
+  "AI Diagnostics": [
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2024/06/ai-physician-future-of-medicine.html",
+    "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html"
+  ],
+  "Seasonal Aging Strategies": [
+    "/2023/12/inflation-causes-effects-solutions.html",
+    "/2023/09/10-tips-to-beat-fall-allergies-naturally.html",
+    "/2024/03/senior-health-trends-april-2024.html"
+  ],
+  "Nutrition for Cognitive Health": [
+    "/2024/06/Alzheimer-prevention-lifestyle-tai-chi.html",
+    "/2024/07/choline-brain-nutrient.html",
+    "/2024/01/omega-3-fatty-acids-guide.html"
+  ],
+
+  "Sleep and Inflammation": [
+    "/2024/12/inflammation-aging-human-growth-hormone.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2023/09/7-tips-for-healthy-aging.html"
+  ],
+  "AI in Aging": [
+    "/2024/07/title-demystifying-brain-aging-ai.html",
+    "/2024/07/sex-aging-proteomic-neurodegeneration.html"
+  ],
+  "Mental Health Biomarkers": [
+    "/2024/07/new-biomarker-early-detection-als-ftd.html",
+    "/2024/06/digital-speech-analysis-frontotemporal-degeneration.html"
+  ],
+  "Nutrition for Stress Recovery": [
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2023/09/7-tips-for-healthy-aging.html"
+  ],
+{
+  "Gut Microbiome and Aging": [
+    "/2024/03/chronic-inflammation-causes-symptoms-treatment.html",
+    "/2024/06/gut-health-secrets-small-intestine-neuroprotection.html",
+    "/2024/06/stress-gut-bacteria-microbiome-resilience.html"
+  ],
+  "Fitness for Cognitive Health": [
+    "/2024/06/Alzheimer-prevention-lifestyle-tai-chi.html",
+    "/2024/05/tips-for-healthy-brain-aging.html",
+    "/2024/04/working-memory-insights-brain-cells-focus-storage.html"
+  ],
+  "Sleep Optimization": [
+    "/2024/02/good-night-sleep-struggles-expert-advice.html",
+    "/2024/06/the-big-5-health-diet-exercise-socializing-sleep-stress.html",
+    "/2024/04/sleep-habits-and-type-2-diabetes.html"
+  ],
+  "Nutrition for Brain Repair": [
+    "/2024/05/brain-health-diet-immunity.html",
+    "/2024/01/skipping-breakfast-debunk-myths-and.html",
+    "/2024/07/choline-brain-nutrient.html"
+  ],
+{
+  "AI Diagnostics": [
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html",
+    "/2024/06/ai-physician-future-of-medicine.html"
+  ],
+  "Mental Health in Aging": [
+    "/2024/03/support-senior-mental-health.html",
+    "/2025/04/anxiety-accelerates-aging.html",
+    "/2024/05/tips-for-healthy-brain-aging.html"
+  ],
+  "Seasonal Wellness": [
+    "/2023/09/10-tips-to-beat-fall-allergies-naturally.html",
+    "/2024/03/senior-health-trends-april-2024.html",
+    "/2023/12/inflation-causes-effects-solutions.html"
+  ],
+  "Nutrition for Neuroprotection": [
+    "/2024/06/Alzheimer-prevention-lifestyle-tai-chi.html",
+    "/2024/01/omega-3-fatty-acids-guide.html",
+    "/2024/07/choline-brain-nutrient.html"
+  ],
+
+  "Social Aging": [
+    "/2025/04/exploring-shingles-vaccine-loneliness-dementia.html",
+    "/2025/01/socioeconomic-status-aging-healthcare.html",
+    "/2023/12/embracing-wisdom-age.html"
+  ],
+  "Fitness Recovery": [
+    "/2025/01/seniors-chair-yoga-free-for-strength.html",
+    "/2023/10/the-top-ten-growing-lifestyle-trends-in.html",
+    "/2024/03/creating-your-best-exercise-plan.html"
+  ],
+  "Nutrition for Vision Clarity": [
+    "/2024/07/choline-brain-nutrient.html",
+    "/2024/01/omega-3-fatty-acids-guide.html",
+    "/2024/03/anti-aging-research.html"
+  ],
+  "AI and Public Health Trends": [
+    "/2024/06/ai-physician-future-of-medicine.html",
+    "/2024/06/ai-in-healthcare-revolutionizing-medicine.html",
+    "/2023/12/ai-on-rise-from-robot-chefs-to-mind.html"
   ]
 }
-}
+
+
+
+
+
+
+
+
 
